@@ -16,7 +16,17 @@ Titan Framework allows theme and plugin developers to create admin pages, option
 
 This means faster theme & plugin creation for everyone.
 
-[How it works?](http://github.com/hsleonis)
+[How it works?](https://github.com/hsleonis/titan-file-upload)
+
+Easy to use:
+````php
+$mySection->createOption( array(
+		'name' => 'PDF',
+		'id' => 'sec_pdf_upload',
+		'type' => 'file',
+		'desc' => 'Upload your pdf'
+	) );
+````
 
 = Features =
 
@@ -59,10 +69,8 @@ Thanks to everyone involved in development of Titan Framework and this extension
 
 == Frequently Asked Questions ==
 
-* [Titan Framework GitHub Repository](https://github.com/gambitph/Titan-Framework)
-* [Issue Tracker](https://github.com/gambitph/Titan-Framework/issues)
-
-== Upgrade Notice ==
+* [Titan Framework GitHub Repository](https://github.com/hsleonis/titan-file-upload)
+* [Issue Tracker](https://github.com/hsleonis/titan-file-upload/issues)
 
 == Screenshots ==
 

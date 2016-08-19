@@ -1,22 +1,22 @@
 # Titan File Uploader
-Contributors: shahriar.ds
-
-Donate link: http://github.com/hsleonis
-
-Tags: file, upload, framework, options, admin, admin panel, meta box, theme customizer, option framework, library, sdk, edd, settings, api, theme creator, theme framework
-
-Requires at least: 4.1
-
-Tested up to: 4.6
-
-Stable tag: 1.10
-
-License: GPLv2 or later
-
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-
 Create any file upload functionality with this extension on Titan Framework which is currently unavailable.
+
+Easy to use:
+````php
+$mySection->createOption( array(
+		'name' => 'PDF',
+		'id' => 'sec_pdf_upload',
+		'type' => 'file',
+		'desc' => 'Upload your pdf'
+	) );
+````
+
+* Requires at least: WordPress 4.1
+* Tested up to: WordPress 4.6
+* Stable tag: 1.10
+* License: GPLv2 or later
+* License URI: http://www.gnu.org/licenses/gpl-2.0.html
+* Tags: file, upload, framework, options, admin, admin panel, meta box, theme customizer, option framework, library, sdk, edd, settings, api, theme creator, theme framework
 
 # Description
 
@@ -69,8 +69,6 @@ Thanks to everyone involved in development of Titan Framework and this extension
 
 * [Titan Framework GitHub Repository](https://github.com/hsleonis/titan-file-upload)
 * [Issue Tracker](https://github.com/hsleonis/titan-file-upload/issues)
-
-# Upgrade Notice
 
 # Screenshots
 
