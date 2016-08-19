@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: shahriar.ds
+Contributors: shahriarleo
 Donate link: http://github.com/hsleonis
 Tags: file, upload, framework, options, admin, admin panel, meta box, theme customizer, option framework, library, sdk, edd, settings, api, theme creator, theme framework
 Requires at least: 4.1
