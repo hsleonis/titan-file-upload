@@ -24,7 +24,7 @@ Titan Framework allows theme and plugin developers to create admin pages, option
 
 This means faster theme & plugin creation for everyone.
 
-[How it works?](http://github.com/hsleonis)
+[How it works?](https://github.com/hsleonis/titan-file-upload)
 
 # Features
 
@@ -67,8 +67,8 @@ Thanks to everyone involved in development of Titan Framework and this extension
 
 # Frequently Asked Questions
 
-* [Titan Framework GitHub Repository](https://github.com/gambitph/Titan-Framework)
-* [Issue Tracker](https://github.com/gambitph/Titan-Framework/issues)
+* [Titan Framework GitHub Repository](https://github.com/hsleonis/titan-file-upload)
+* [Issue Tracker](https://github.com/hsleonis/titan-file-upload/issues)
 
 # Upgrade Notice
 
