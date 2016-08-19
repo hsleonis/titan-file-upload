@@ -1,4 +1,4 @@
-# Plugin Name
+# Titan File Uploader
 Contributors: shahriar.ds
 
 Donate link: http://github.com/hsleonis

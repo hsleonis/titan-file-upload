@@ -2,13 +2,13 @@
 /**
  * Main plugin file
  *
- * @package Titan File Upload
+ * @package Titan File Uploader
  *
  * @see lib/class-option-file.php
  */
 
 /**
-Plugin Name: Titan File Upload
+Plugin Name: Titan File Uploader
 Plugin URI: http://themeaxe.com
 Description: This plugin is an extension of Titan Framework. It adds any file upload functionality on Titan Framework which is currently unavailable.
 Author: Md. Hasan Shahriar
