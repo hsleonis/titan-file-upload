@@ -78,6 +78,8 @@ Thanks to everyone involved in development of Titan Framework and this extension
 
 Will be added soon.
 
+== Upgrade Notice ==
+
 == Changelog ==
 
 = 1.0 =
