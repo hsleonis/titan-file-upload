@@ -10,6 +10,7 @@ $mySection->createOption( array(
 		'desc' => 'Upload your pdf'
 	) );
 ````
+[Titan Framework Documentation](http://www.titanframework.net/docs)
 
 * Requires at least: WordPress 4.1
 * Tested up to: WordPress 4.6
@@ -67,7 +68,7 @@ Thanks to everyone involved in development of Titan Framework and this extension
 
 # Frequently Asked Questions
 
-* [Titan Framework GitHub Repository](https://github.com/hsleonis/titan-file-upload)
+* [Titan File Uploader GitHub Repository](https://github.com/hsleonis/titan-file-upload)
 * [Issue Tracker](https://github.com/hsleonis/titan-file-upload/issues)
 
 # Screenshots
